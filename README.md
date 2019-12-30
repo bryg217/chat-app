@@ -22,3 +22,7 @@ Main Technologies:
   * `socket.io`
     * Used in both front and back ends
     * Used as base library for chat
+
+* Setup
+
+**Coming soon**
