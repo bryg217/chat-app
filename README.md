@@ -23,6 +23,6 @@ Main Technologies:
     * Used in both front and back ends
     * Used as base library for chat
 
-* Setup
+## Setup
 
 **Coming soon**
